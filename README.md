@@ -6,5 +6,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mresitgokce1&show_icons=true&locale=en" alt="mresitgokce1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mresitgokce1&" alt="mresitgokce1" /></p>
